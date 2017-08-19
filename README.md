@@ -107,6 +107,3 @@ List of most things SAML
 - Videos
 	- [Intro. to SAML: What, How and Why](https://www.youtube.com/watch?v=0fmNoqz6Urw)
 	- [Introduction to SAML](https://www.youtube.com/watch?v=S9BpeOmuEz4)
-
-
-- 
