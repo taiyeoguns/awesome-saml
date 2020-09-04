@@ -34,7 +34,7 @@ List of most things SAML
 - [Okta (Stormpath)](https://www.okta.com/products/single-sign-on/)
 - [OneLogin](https://www.onelogin.com/)
 - [PingFederate](https://www.pingidentity.com/en/platform/single-sign-on/software-sso.html)
-
+- [WorkOS](https://workos.com/features/sso)
 
 
 ## Programming Language Libraries
