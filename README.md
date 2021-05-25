@@ -29,6 +29,7 @@ List of most things SAML
 ### Proprietary
 - [ADFS](https://en.wikipedia.org/wiki/Active_Directory_Federation_Services)
 - [Auth0](https://auth0.com/)
+- [LoginRadius](https://www.loginradius.com/)
 - [CA Single Sign On](https://www.ca.com/gb/products/ca-single-sign-on.html)
 - [ForgeRock](https://www.forgerock.com/platform/)
 - [Okta (Stormpath)](https://www.okta.com/products/single-sign-on/)
