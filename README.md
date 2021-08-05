@@ -82,6 +82,10 @@ List of most things SAML
 - [Omniauth SAML](https://github.com/omniauth/omniauth-saml)
 - [Onelogin Ruby SAML](https://github.com/onelogin/ruby-saml)
 
+## Rust
+ - [samael](https://github.com/njaremko/samael)
+ - [crowbar](https://github.com/moritzheiber/crowbar)
+
 ## Testing
 
 ### Identity Providers
