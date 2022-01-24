@@ -93,6 +93,7 @@ List of most things SAML
 - [SSOCircle](http://www.ssocircle.com/)
 - [StubIdP](http://stubidp.kentor.se/)
 - [TestShib](https://www.testshib.org/)
+- [SAMLkit](https://samlkit.com/)
 
 ### Debugging
 - [SAML Chrome Panel](https://chrome.google.com/webstore/detail/saml-chrome-panel/paijfdbeoenhembfhkhllainmocckace)
