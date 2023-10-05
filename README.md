@@ -10,6 +10,7 @@ List of most things SAML
 - [Testing](#testing)
 - [Security](#security)
 - [Resources](#resources)
+- [Blogs](#blogs)
 
 
 ## Overview
@@ -113,3 +114,8 @@ List of most things SAML
 - Videos
 	- [Intro. to SAML: What, How and Why](https://www.youtube.com/watch?v=0fmNoqz6Urw)
 	- [Introduction to SAML](https://www.youtube.com/watch?v=S9BpeOmuEz4)
+
+## Blogs
+- [SAML web-based authentication for Security (Single Sign-On SSO)](https://medium.com/avmconsulting-blog/saml-web-based-authentication-for-security-single-sign-on-sso-93d35927b66a)
+- [SAML, SSO and Automatic User Provisioning](https://blog.cloud66.com/saml-sso-and-automatic-user-provisioning)
+- [How SAML Authentication Works](https://auth0.com/blog/how-saml-authentication-works/)
