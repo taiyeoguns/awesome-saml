@@ -95,6 +95,7 @@ List of most things SAML
 - [StubIdP](http://stubidp.kentor.se/)
 - [TestShib](https://www.testshib.org/)
 - [SAMLkit](https://samlkit.com/)
+- [SAML Tester](https://saml-tester.compile7.org/)
 
 ### Debugging
 - [SAML Chrome Panel](https://chrome.google.com/webstore/detail/saml-chrome-panel/paijfdbeoenhembfhkhllainmocckace)
